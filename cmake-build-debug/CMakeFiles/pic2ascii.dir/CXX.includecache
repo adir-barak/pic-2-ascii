@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/Image.h
+string.h
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/string.h
+iostream
+-
+
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/main.cpp
+Image.h
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/Image.h
+algorithm
+-
+

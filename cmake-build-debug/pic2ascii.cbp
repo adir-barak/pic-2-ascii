@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/adirb/CLionProjects/pic2ascii/image.h">
+		<Unit filename="/mnt/c/Users/adirb/CLionProjects/pic2ascii/Image.h">
 			<Option target="pic2ascii"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/adirb/CLionProjects/pic2ascii/main.cpp">

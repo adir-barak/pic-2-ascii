@@ -40,21 +40,21 @@ This is a fun little program that takes in a photo in .PNG, .JPG, or .BMP and th
 <h4>As simple as:</h4>
 
 ```bash
-./pic2asciir <path-to-your/filename.[png, jpg or bmp]>
+./pic2ascii <path-to-your/filename.[png, jpg or bmp]>
 
 // Or, try 'alt' to fresh things up
-./pic2asciir <path-to-your/filename.[png, jpg or bmp]> alt
+./pic2ascii <path-to-your/filename.[png, jpg or bmp]> alt
 ```
 
 ---
 
 ## 📦 Features
 
-|     | Feature        | Description                                              |
-| --- |----------------|----------------------------------------------------------|
-| 💫  | **Easy**       | Just enter a filename and that's it!                     |
-| 🤓  | **Geeky Art**  | Who doesn't love ascii?!                                 |
-| 🔸  | **Accessible** | A tiny and fun project with lots of tinkering potential. |
+|     | Feature       | Description                                              |
+| --- |---------------|----------------------------------------------------------|
+| 💫  | **Easy**      | Just enter a filename and that's it!                     |
+| 🤓  | **Geeky Art** | Who doesn't love ascii?!                                 |
+| 🔸  | **Tiny**      | A tiny and fun project with lots of tinkering potential. |
 
 ---
 

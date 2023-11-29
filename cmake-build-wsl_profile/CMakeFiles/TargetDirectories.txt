@@ -1,0 +1,3 @@
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/cmake-build-wsl_profile/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/cmake-build-wsl_profile/CMakeFiles/edit_cache.dir
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/cmake-build-wsl_profile/CMakeFiles/pic2ascii.dir

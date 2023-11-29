@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pic2ascii.dir/main.cpp.o  -o pic2ascii 

@@ -1,0 +1,3 @@
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/adirb/CLionProjects/pic2ascii/cmake-build-debug/CMakeFiles/pic2ascii.dir

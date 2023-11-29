@@ -41,10 +41,8 @@ This is a fun little program that takes in a photo in .PNG, .JPG, or .BMP and th
 
 ```bash
 ./pic2asciir <path-to-your/filename.[png, jpg or bmp]>
-```
 
-<h4>Or, try this to fresh things up:</h4>
-```bash
+// Or, try 'alt' to fresh things up
 ./pic2asciir <path-to-your/filename.[png, jpg or bmp]> alt
 ```
 

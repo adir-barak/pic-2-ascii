@@ -11,12 +11,11 @@
 </div>
 
 ![image of a woman holding a camera](https://i.imgur.com/2ii5S6m.jpg)
-![screen shot of the woman holding a camera image in ascii output](https://i.imgur.com/Yro0JgP.png)
+![screen shot of the woman holding a camera image in ASCII output](https://i.imgur.com/Yro0JgP.png)
 ![image of a clock](https://i.imgur.com/eD5mK4h.jpg)
-![screen shot of the clock image in ascii output](https://i.imgur.com/ZSQdAf5.png)
+![screen shot of the clock image in ASCII output](https://i.imgur.com/ZSQdAf5.png)
 ![image of a wooden bridge](https://i.imgur.com/J2Q8vB9.jpg)
-![screen shot of the wooden bridge image in ascii output](https://i.imgur.com/ZaHkcE5.png)
-
+![screen shot of the wooden bridge image in ASCII output](https://i.imgur.com/ZaHkcE5.png)
 
 ---
 
@@ -53,7 +52,7 @@ This is a fun little program that takes in a photo in .PNG, .JPG, or .BMP and th
 |     | Feature       | Description                                              |
 | --- |---------------|----------------------------------------------------------|
 | 💫  | **Easy**      | Just enter a filename and that's it!                     |
-| 🤓  | **Geeky Art** | Who doesn't love ascii?!                                 |
+| 🤓  | **Geeky Art** | Who doesn't love ASCII?!                                 |
 | 🔸  | **Tiny**      | A tiny and fun project with lots of tinkering potential. |
 
 ---

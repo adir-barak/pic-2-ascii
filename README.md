@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">
-<img src="https://i.imgur.com/lNlhdlC.jpg" width="384" />
+<img src="https://i.imgur.com/pmadwD1.jpg" width="384" />
 </h1>
 <h3>My Portfolio Website</h3>
 <img src="https://img.shields.io/github/languages/top/adir-barak/pic-2-ascii?style&color=5D6D7E" alt="GitHub top language" />
@@ -10,12 +10,12 @@
 <h3>Screenshots:</h3>
 </div>
 
-![screenshot of an ascii imagee of a woman with a camera](https://i.imgur.com/yfK3ObS.jpg)
-![screenshot of an ascii imagee of a train station](https://i.imgur.com/3RbosMl.jpg)
-![screenshot of an ascii imagee of a valley](https://i.imgur.com/sLCy1MP.jpg)
-![screenshot of an ascii imagee of a clock](https://i.imgur.com/ZQy1cMi.jpg)
-![screenshot of an ascii imagee of a wooden bridge](https://i.imgur.com/GNrGDja.jpg)
-![screenshot of an ascii imagee of a surfer at sunset](https://i.imgur.com/v6MAanS.jpg)
+![image of a woman holding a camera](https://i.imgur.com/2ii5S6m.jpg)
+![screen shot of the woman holding a camera image in ascii output](https://i.imgur.com/Yro0JgP.png)
+![image of a clock](https://i.imgur.com/eD5mK4h.jpg)
+![screen shot of the clock image in ascii output](https://i.imgur.com/ZSQdAf5.png)
+![image of a wooden bridge](https://i.imgur.com/J2Q8vB9.jpg)
+![screen shot of the wooden bridge image in ascii output](https://i.imgur.com/ZaHkcE5.png)
 
 
 ---
